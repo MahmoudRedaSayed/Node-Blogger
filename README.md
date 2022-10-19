@@ -12,5 +12,5 @@ it is a small app to make posts
 
 
 ## Screenshots
-![Home ](https://github.com/MahmoudRedaSayed/Node-Blogger/blob/main/Pics/home.PNG)
-![Add post](https://github.com/MahmoudRedaSayed/Node-Blogger/blob/main/Pics/school.PNG)
+![ Home ](https://github.com/MahmoudRedaSayed/Node-Blogger/blob/main/Pics/home.PNG)
+![ Add post](https://github.com/MahmoudRedaSayed/Node-Blogger/blob/main/Pics/Add.PNG)
